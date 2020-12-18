@@ -1,0 +1,21 @@
+.label {
+    -fx-border-width: 0 1 1 0;
+    -fx-border-color: black;
+    -fx-background-color: yellow;
+    -fx-font-size: 16;
+}
+
+.left-label {
+    -fx-border-width: 0 1 1 1;
+    -fx-border-color: black;
+}
+
+.top-label {
+    -fx-border-width: 1 1 1 0;
+    -fx-border-color: black;
+}
+
+.top-left-label {
+    -fx-border-width: 1 1 1 1;
+    -fx-border-color: black;
+}
